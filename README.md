@@ -1,4 +1,5 @@
 <img align="right" width="400" height="300" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-lemes-7114a6173/)](https://www.linkedin.com/in/ricardo-lemes-7114a6173/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemesricardo93@gmail.com)](mailto:lemesricardo93@gmail.com)
  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562999467003&text=Oi,%20Tudo%20bem?)](https://api.whatsapp.com/send?phone=5562999467003&text=Oi,%20Tudo%20bem?)
