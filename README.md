@@ -7,6 +7,9 @@
 
 ### Hi there 👋
 
+💻 Trabalho atualmente com o Delphi, SQL. 
+🎓 Sempre buscando novas tecnologias e conhecimento como: Java, TypeScript.
+
 <!--
 **lemesricardo93/lemesricardo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
