@@ -1,4 +1,4 @@
-<img align="right" width="400" height="300" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img align="right" width="400" height="300" src="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-lemes-7114a6173/)](https://www.linkedin.com/in/ricardo-lemes-7114a6173/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemesricardo93@gmail.com)](mailto:lemesricardo93@gmail.com)
@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 - 💻 Trabalho atualmente com o Delphi, SQL. 
-- 🎓 Sempre buscando novas tecnologias e conhecimento como: Java, TypeScript.
+- 🎓 Sempre buscando novas tecnologias e conhecimento como: PLSQL,  Spring Boot, Flutter, Dart, Delphi.
 
 <!--
 **lemesricardo93/lemesricardo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
